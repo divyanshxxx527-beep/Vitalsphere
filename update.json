@@ -1,0 +1,23 @@
+{
+    "version": "1.1.0",
+    "releaseDate": "2025-11-13",
+    "releaseNotes": "Auto-update notification system with version verification. Enhanced update management with improved notification UI.",
+    "downloadUrl": "https://github.com/divyanshvitalblink/vitalsphere/releases/download/v1.1.0/vitalsphere-Setup-1.1.0.zip",
+    "changelog": [
+        "Added automatic update check notification system",
+        "Implemented version comparison between local and remote versions",
+        "Enhanced update details window with beautiful UI",
+        "Added support for critical update notifications",
+        "Improved update download with GitHub releases support",
+        "Added manual update check from settings menu",
+        "Implemented periodic background update checks",
+        "Enhanced error handling and user feedback",
+        "Fixed Google Meet authentication issues",
+        "Enhanced browser security with Chrome 120 emulation",
+        "Added privacy controls for clearing cookies, cache, and history",
+        "Fixed quick links authentication with shared session",
+        "Improved tab management performance"
+    ],
+    "critical": false,
+    "minVersion": "1.0.0"
+}
