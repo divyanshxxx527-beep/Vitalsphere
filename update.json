@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
+    "version": "1.0.0",
     "releaseDate": "2025-11-13",
     "releaseNotes": "Auto-update notification system with version verification. Enhanced update management with improved notification UI.",
     "downloadUrl": "https://github.com/divyanshvitalblink/vitalsphere/releases/download/v1.1.0/vitalsphere-Setup-1.1.0.zip",
@@ -20,4 +20,5 @@
     ],
     "critical": false,
     "minVersion": "1.0.0"
+
 }
